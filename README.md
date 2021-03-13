@@ -1,7 +1,8 @@
 ### <p align="center">Hi there 👋</p>
-###### <p align="center">Welcome to my GitHub profile.</p>
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png
+
+#### <p align="center">Welcome to my GitHub profile.</p>
 
 ---
 
@@ -12,6 +13,8 @@
 </p>
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/omarovfrontend)](https://t.me/omarovfrontend)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarovfrontend/)]
+<br/>
+<br/>
 
 <img align="right" alt="GIF" width="365" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
