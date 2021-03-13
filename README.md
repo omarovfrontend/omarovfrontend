@@ -4,12 +4,10 @@
 
 ---
 
-### <p align="center"> I am a Junior Frontend Developer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### <p align="center" style"color:red"> I am a Junior Frontend Developer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
 <!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/omarovfrontend)](https://t.me/omarovfrontend)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarovfrontend/)] -->
-<br/>
-<br/>
 
 <img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
