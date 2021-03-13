@@ -8,8 +8,7 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/omarovfrontend)
 </p>
 
-<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/omarovfrontend)](https://t.me/omarovfrontend)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarovfrontend/)] -->
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/omarovfrontend)](https://t.me/omarovfrontend)
 
 <img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
