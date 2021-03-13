@@ -1,6 +1,6 @@
 ### <p align="center">Hi there 👋</p>
+#### <p align="center">Welcome to my GitHub profile.</p>
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-## <p align="center">Welcome to my GitHub profile.</p>
 
 ## <p align="center" style="color:red;">I am a Junior Frontend Developer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
