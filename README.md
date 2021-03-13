@@ -1,7 +1,7 @@
-### Hi there 👋
+### <p align="center">Hi there 👋</p>
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<strong>Welcome to my GitHub profile.</strong>
+<strong align="center">Welcome to my GitHub profile.</strong>
 
 ---
 
