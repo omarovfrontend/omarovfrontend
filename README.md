@@ -1,7 +1,5 @@
 ### <p align="center">Hi there 👋</p>
-
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png
-
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 #### <p align="center">Welcome to my GitHub profile.</p>
 
 ---
@@ -16,7 +14,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="GIF" width="365" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
