@@ -4,7 +4,7 @@
 [![Header](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)](http://omarov.site/)
 <!-- If you want the template for my gif, email me! -->
 
-## <p align="center" style="color:red;">I am a Junior Frontend Developer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## <p align="center">I am a Frontend Developer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 [![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=27a7e5)](https://t.me/omarovfrontend)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/omarovfrontend/)
