@@ -7,13 +7,14 @@
 [![Header](https://github.com/omarovfrontend/omarovfrontend/blob/main/profile.gif?raw=true)](https://omarov.site/)
 <!-- If you want the template for my gif, email me! -->
 
+<img align="right" alt="GIF" width="350" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47guq07vqxyyeb82qdgqb7ekwpszlnqolhgpn0u8ni&rid=giphy.gif"/>
+
 [![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/omarovfrontend/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/omarovfrontend)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=27a7e5)](https://t.me/omarovfrontend)
 
 <!-- <img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/> -->
-<img align="right" alt="GIF" width="350" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47guq07vqxyyeb82qdgqb7ekwpszlnqolhgpn0u8ni&rid=giphy.gif"/>
 
 ### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="30"></p>
 
