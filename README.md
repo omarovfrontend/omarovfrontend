@@ -2,27 +2,26 @@
 ### <p align="center">Welcome to my GitHub profile.</p>
 
 <!-- [![Header](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)](http://omarov.site/) -->
-<!-- картинка с ссылкой на мой сайт -->
+<!-- интересная картинка с ссылкой на мой сайт -->
 
 [![Header](https://github.com/omarovfrontend/omarovfrontend/blob/main/profile.gif?raw=true)](https://omarov.site/)
 <!-- If you want the template for my gif, email me! -->
 
-## <p align="center">I am a Frontend Developer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## <p align="center">I am a Frontend Developer!>
 [![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=27a7e5)](https://t.me/omarovfrontend)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/omarovfrontend/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/omarovfrontend)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=27a7e5)](https://t.me/omarovfrontend)
 </p>
-
 
 <img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### A little more about me ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"
 
 - 👨🏻‍💻 I'm currently studying Vue Js,
 - 🤝 I’m looking to collaborate with other developers,
 - 🎯 Goals for 2021: Join a dynamic and ambitious development team,
-- 🤫 Fun fact: I love the TV series silicon valley!
+- 🤫 Fun fact: I love programming, and the TV series "Silicon Valley"!
 
 ### Languages and Tools:
 
