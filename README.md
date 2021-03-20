@@ -16,7 +16,9 @@
 
 <img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-### <p> A little more about me ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" </p>
+### <p> A little more about me ... 
+<img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="30">
+</p>
 
 - 👨🏻‍💻 I'm currently studying Vue Js,
 - 🤝 I’m looking to collaborate with other developers,
