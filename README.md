@@ -1,5 +1,5 @@
-## <p align="center" style="color: #007bce;">Hi there 👋</p>
-***<p align="center" style="font-size: 18px; color: #881600;">Welcome to my GitHub profile.</p>***
+## <p align="center">Hi there 👋</p>
+***<p align="center" style="font-size: 18px;">Welcome to my GitHub profile.</p>***
 
 <!-- [![Header](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)](http://omarov.site/) -->
 <!-- interesting picture with a link to my site -->
@@ -14,14 +14,14 @@
 
 <img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-### <p style="color: #FFBC42;">A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="30"></p>
+### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="30"></p>
 
-- 👨🏻‍💻 I'm currently studying Vue Js,
-- 🤝 I’m looking to collaborate with other developers,
-- 🎯 Goals for 2021: Join a dynamic and ambitious development team,
-- 🤫 Fun fact: I love programming, and the TV series "Silicon Valley"!
+* 👨🏻‍💻 `I'm currently studying Vue Js`
+* 🤝 `I’m looking to collaborate with other developers`
+* 🎯 `Goals for 2021: Join a dynamic and ambitious development team`
+* 🤫 `Fun fact: I love programming, and the TV series "Silicon Valley"`
 
-### <p style="color: #e54c21;">Languages and Tools:</p>
+### <p>Languages and Tools:</p>
 
 <img align="left" alt="VSCode" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
