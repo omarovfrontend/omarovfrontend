@@ -1,5 +1,5 @@
 ## <p align="center">Hi there 👋</p>
-***<p align="center" style="font-size: 18px;">Welcome to my GitHub profile.</p>***
+***<p align="center">Welcome to my GitHub profile.</p>***
 
 <!-- [![Header](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)](http://omarov.site/) -->
 <!-- interesting picture with a link to my site -->
@@ -16,10 +16,10 @@
 
 ### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="30"></p>
 
-* 👨🏻‍💻 `I'm currently studying Vue Js`
-* 🤝 `I’m looking to collaborate with other developers`
-* 🎯 `Goals for 2021: Join a dynamic and ambitious development team`
-* 🤫 `Fun fact: I love programming, and the TV series "Silicon Valley"`
+   👨🏻‍💻 `I'm currently studying Vue Js`
+   🤝 `I’m looking to collaborate with other developers`
+   🎯 `Goals for 2021: Join a dynamic and ambitious development team`
+   🤫 `Fun fact: I love programming, and the TV series "Silicon Valley"`
 
 ### <p>Languages and Tools:</p>
 
