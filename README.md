@@ -1,9 +1,6 @@
 ## <p align="center">Hi there 👋</p>
 ***<p align="center">Welcome to my GitHub profile.</p>***
 
-<!-- [![Header](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)](http://omarov.site/) -->
-<!-- interesting picture with a link to my site -->
-
 [![Header](https://github.com/omarovfrontend/omarovfrontend/blob/main/profile.gif?raw=true)](http://omarov.site/)
 <!-- If you want the template for my gif, email me! -->
 
@@ -13,8 +10,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/omarovfrontend/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/omarovfrontend)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=27a7e5)](https://t.me/omarovfrontend)
-
-<!-- <img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/> -->
 
 ### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="30"></p>
 
