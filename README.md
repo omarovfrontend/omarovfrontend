@@ -1,7 +1,10 @@
 ### <p align="center">Hi there 👋</p>
 ### <p align="center">Welcome to my GitHub profile.</p>
 
-[![Header](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)](http://omarov.site/)
+<!-- [![Header](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)](http://omarov.site/) -->
+<!-- картинка с ссылкой на мой сайт -->
+
+[![Header](https://github.com/omarovfrontend/omarovfrontend/blob/main/profile.gif?raw=true)](https://omarov.site/)
 <!-- If you want the template for my gif, email me! -->
 
 ## <p align="center">I am a Frontend Developer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
