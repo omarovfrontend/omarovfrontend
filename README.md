@@ -1,5 +1,5 @@
 ## <p align="center">Hi there 👋</p>
-### <p align="center">Welcome to my GitHub profile.</p>
+***<p align="center">Welcome to my GitHub profile.</p>***
 
 <!-- [![Header](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)](http://omarov.site/) -->
 <!-- интересная картинка с ссылкой на мой сайт -->
