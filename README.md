@@ -37,9 +37,11 @@
 
 <img align="left" alt="Redux" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Redux/Redux.png"/>
 
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=4AB197)
+<br>
+
 ![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=nuxt.js)
+![React.js](https://img.shields.io/badge/-React.js-000?&logo=react.js)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
