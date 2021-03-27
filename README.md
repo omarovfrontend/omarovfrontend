@@ -38,6 +38,7 @@
 <img align="left" alt="Redux" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Redux/Redux.png"/>
 
 <br>
+
 ![VScode](https://img.shields.io/badge/-VScode-000?&logo=VScode)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
