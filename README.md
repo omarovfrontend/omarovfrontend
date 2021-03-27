@@ -39,15 +39,21 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![Terminal](https://img.shields.io/badge/-Terminal-000?&logo=Terminal)
+![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
+![Terminal](https://img.shields.io/badge/-Terminal-000?&logo=MacOS)
+
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
-![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
+![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
 
 ![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
+
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)
+
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
