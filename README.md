@@ -45,3 +45,4 @@
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=nuxt.js)
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=react.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=typescript)
