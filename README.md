@@ -39,3 +39,7 @@
 
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=4AB197)
+![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=nuxt.js)
