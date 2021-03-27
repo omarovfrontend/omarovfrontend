@@ -31,27 +31,23 @@
 <img align="left" alt="VueJS" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
 <img align="left" alt="ReactJS" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="left" alt="TypeScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-<img align="left" alt="NuxtJs" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Nuxt.js/Nuxt.js.png"/>
-<img align="left" alt="NextJs" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Next.js/Next.js.png"/>
-<img align="left" alt="NodeJs" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Node.js/Node.js.png"/>
-
-<img align="left" alt="Redux" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Redux/Redux.png"/>
 
 <br>
 
-![VScode](https://img.shields.io/badge/-VScode-000?&logo=VScode)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![VScode](https://img.shields.io/badge/-VScode-000?&logo=Visual-Studio-Code)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=WebStorm)
+
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![Terminal](https://img.shields.io/badge/-Terminal-000?&logo=Terminal)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=SCSS)
 
 ![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)
-![React.js](https://img.shields.io/badge/-React.js-000?&logo=React.js)
+![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
