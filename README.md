@@ -1,5 +1,5 @@
-## <p align="center">🇷🇺👨🏻‍💻 Hi there 🇷🇺 👋</p>
-***<p align="center">Welcome to my GitHub profile.</p>***
+## <p align="center">Hi there 👋</p>
+***<p align="center">🇷🇺 Welcome to my GitHub profile! 🇷🇺</p>***
 
 [![Header](https://github.com/omarovfrontend/omarovfrontend/blob/main/profile.gif?raw=true)](http://omarov.site/)
 <!-- If you want the template for my gif, email me! -->
@@ -39,7 +39,7 @@
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js) -->
 <!-- ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript) -->
 
-### Contact me: 🔗☟
+### Contact me: ☟
 [![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0966c2)](https://www.linkedin.com/in/omarovfrontend/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0966c2)](https://codepen.io/omarovfrontend)
