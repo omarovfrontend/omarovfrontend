@@ -18,6 +18,9 @@
  - 🎯 `Goals for 2021: Join a dynamic and ambitious development team`
  - 🤫 `Fun fact: I love programming, and the TV series "Silicon Valley"`
 
+### My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### <p>Languages and Tools:</p>
 
 ![VScode](https://img.shields.io/badge/-VScode-000?&logo=Visual-Studio-Code)
