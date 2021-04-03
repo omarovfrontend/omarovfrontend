@@ -14,6 +14,9 @@
  - [ ] 🎯 `Goals for 2021: Join a dynamic and ambitious development team`
  - [ ] 🤫 `Fun fact: I love programming, and the TV series "Silicon Valley"`
 
+### My Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### <p>Languages and Tools:</p>
 
 ![VScode](https://img.shields.io/badge/-VScode-000?&logo=Visual-Studio-Code)
@@ -37,10 +40,7 @@
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js) -->
 <!-- ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript) -->
 
-### My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Connect with me
+### Connect with me: ⁉️
 [![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0966c2)](https://www.linkedin.com/in/omarovfrontend/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0966c2)](https://codepen.io/omarovfrontend)
