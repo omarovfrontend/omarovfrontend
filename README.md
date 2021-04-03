@@ -6,21 +6,6 @@
 
 <img align="right" alt="GIF" width="350" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47guq07vqxyyeb82qdgqb7ekwpszlnqolhgpn0u8ni&rid=giphy.gif"/>
 
-[![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0966c2)](https://www.linkedin.com/in/omarovfrontend/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0966c2)](https://codepen.io/omarovfrontend)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0966c2)](https://t.me/omarovfrontend)
-
-### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="30"></p>
-
- - 👨🏻‍💻 `I'm currently studying Vue Js`
- - 🤝 `I’m looking to collaborate with other developers`
- - 🎯 `Goals for 2021: Join a dynamic and ambitious development team`
- - 🤫 `Fun fact: I love programming, and the TV series "Silicon Valley"`
-
-### My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### <p>Languages and Tools:</p>
 
 ![VScode](https://img.shields.io/badge/-VScode-000?&logo=Visual-Studio-Code)
@@ -43,3 +28,20 @@
 
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js) -->
 <!-- ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript) -->
+
+### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="30"></p>
+
+ - 👨🏻‍💻 `I'm currently studying Vue Js`
+ - 🤝 `I’m looking to collaborate with other developers`
+ - 🎯 `Goals for 2021: Join a dynamic and ambitious development team`
+ - 🤫 `Fun fact: I love programming, and the TV series "Silicon Valley"`
+
+### My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Connect with me
+[![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0966c2)](https://www.linkedin.com/in/omarovfrontend/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0966c2)](https://codepen.io/omarovfrontend)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0966c2)](https://t.me/omarovfrontend)
+
