@@ -1,23 +1,22 @@
-## <p align="center">Hi there 👋</p>
+## <p align="center">🇷🇺👨🏻‍💻 Hi there 🇷🇺 👋</p>
 ***<p align="center">Welcome to my GitHub profile.</p>***
 
 [![Header](https://github.com/omarovfrontend/omarovfrontend/blob/main/profile.gif?raw=true)](http://omarov.site/)
 <!-- If you want the template for my gif, email me! -->
 
-
 <img align="right" alt="GIF" width="350" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47guq07vqxyyeb82qdgqb7ekwpszlnqolhgpn0u8ni&rid=giphy.gif"/>
 
 ### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="30"></p>
 
- - [ ] 👨🏻‍💻 `I'm currently studying Vue Js`
- - [ ] 🤝 `I’m looking to collaborate with other developers`
- - [ ] 🎯 `Goals for 2021: Join a dynamic and ambitious development team`
- - [ ] 🤫 `Fun fact: I love programming, and the TV series "Silicon Valley"`
+ - [ ] 👨🏻‍💻 `I'm currently studying JS, VueJS, WebPack;`
+ - [ ] 🤝 `I’m looking to collaborate with other developers;`
+ - [ ] 🎯 `Goals for 2021: Join a dynamic and ambitious development team;`
+ - [ ] 🤫 `Fun fact: I love programming, and the TV series "Silicon Valley";`
 
 ### My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### <p>Languages and Tools:</p>
+### Languages and Tools:
 
 ![VScode](https://img.shields.io/badge/-VScode-000?&logo=Visual-Studio-Code)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=WebStorm)
@@ -40,9 +39,11 @@
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js) -->
 <!-- ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript) -->
 
-### Connect with me: ⁉️
+### Contact me: 🔗☟
 [![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0966c2)](https://www.linkedin.com/in/omarovfrontend/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0966c2)](https://codepen.io/omarovfrontend)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0966c2)](https://t.me/omarovfrontend)
+
+
 
