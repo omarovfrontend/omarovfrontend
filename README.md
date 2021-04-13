@@ -31,6 +31,7 @@
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=Javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+
 <!-- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js) -->
 
 <!-- ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React) -->
