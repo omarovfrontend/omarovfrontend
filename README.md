@@ -45,3 +45,4 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0966c2)](https://www.linkedin.com/in/omarovfrontend/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0966c2)](https://codepen.io/omarovfrontend)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0966c2)](https://t.me/omarovfrontend)
+
