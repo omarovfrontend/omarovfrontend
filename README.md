@@ -30,13 +30,14 @@
 ![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=Javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue-Js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt-Js)
-![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt)
+
+<!-- ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React) -->
 <!-- ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) -->
 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node) -->
+<!-- ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript) -->
 
 ### Contact me: ☟
 [![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
