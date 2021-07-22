@@ -35,9 +35,9 @@
 
 <!-- ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React) -->
 <!-- ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) -->
-
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node) -->
 <!-- ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript) -->
+
 
 ### Contact me: ☟
 [![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
