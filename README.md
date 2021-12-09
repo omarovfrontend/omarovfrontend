@@ -8,7 +8,7 @@
 
 ### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="30"></p>
 
- - [ ] 👨🏻‍💻 `I'm currently studying: JS, Vue, Gulp/Webpack;`
+ - [ ] 👨🏻‍💻 `I'm currently studying: JS, React, Gulp/Webpack;`
  - [ ] 🤝 `I’m looking to collaborate with other developers;`
  - [ ] 🎯 `Goals for 2021: Join a dynamic and ambitious development team;`
  - [ ] 🤫 `Fun fact: I love programming, and the TV series "Silicon Valley";`
@@ -42,6 +42,6 @@
 
 ### Contact me: ☟
 [![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0966c2)](https://t.me/omarovfrontend)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0966c2)](https://www.linkedin.com/in/omarovfrontend/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0966c2)](https://codepen.io/omarovfrontend)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0966c2)](https://t.me/omarovfrontend)
