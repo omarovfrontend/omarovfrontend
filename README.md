@@ -30,8 +30,9 @@
 ![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=Javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt)
+
+<!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue) -->
+<!-- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt) -->
 
 <!-- ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React) -->
 <!-- ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) -->
