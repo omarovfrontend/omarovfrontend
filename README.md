@@ -8,7 +8,7 @@
 
 ### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="30"></p>
 
- - [ ] 👨🏻‍💻 `I'm currently studying: JS, React, Gulp/Webpack;`
+ - [ ] 👨🏻‍💻 `I'm currently studying: React, Gulp/Webpack;`
  - [ ] 🤝 `I’m looking to collaborate with other developers;`
  - [ ] 🎯 `Goals for 2021: Join a dynamic and ambitious development team;`
  - [ ] 🤫 `Fun fact: I love coding and I have a karate KMS;`
