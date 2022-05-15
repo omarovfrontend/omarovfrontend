@@ -10,7 +10,7 @@
 
  - [ ] 👨🏻‍💻 `I'm currently studying: Express.js, Sequelize, Handlebars;`
  - [ ] 🤝 `I’m looking to collaborate with other developers;`
- - [ ] 🎯 `Goals for 2021: Join a dynamic and ambitious development team;`
+ - [ ] 🎯 `Goals for 2022: Join a dynamic and ambitious development team;`
  - [ ] 🤫 `Fun fact: I love coding and I have a karate KMS;`
 
 ### My Stats:
