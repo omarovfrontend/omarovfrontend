@@ -20,8 +20,8 @@
 
 ![VScode](https://img.shields.io/badge/-VScode-000?&logo=Visual-Studio-Code)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=WebStorm)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Terminal](https://img.shields.io/badge/-Terminal-000?&logo=MacOS)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
