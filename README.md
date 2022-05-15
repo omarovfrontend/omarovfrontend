@@ -25,6 +25,7 @@
 ![Terminal](https://img.shields.io/badge/-Terminal-000?&logo=MacOS)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
