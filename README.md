@@ -29,9 +29,9 @@
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
-![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=Javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
+![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Npm](https://img.shields.io/badge/-Npm-000?&logo=Npm)
