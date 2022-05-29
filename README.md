@@ -1,4 +1,4 @@
-## <p align="center">Hi there 👋</p>
+## <p align="center">Hi there. 👋</p>
 ***<p align="center">🇷🇺 Welcome to my GitHub profile! 🇷🇺</p>***
 
 [![Header](https://github.com/omarovfrontend/omarovfrontend/blob/main/profile.gif?raw=true)](http://omarov.site/)
