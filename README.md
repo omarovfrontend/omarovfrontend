@@ -35,13 +35,11 @@
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Npm](https://img.shields.io/badge/-Npm-000?&logo=Npm)
-
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-
-<!-- ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React) -->
+![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
 <!-- ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux) -->
 <!-- ![ReduxSaga](https://img.shields.io/badge/-ReduxSaga-000?&logo=ReduxSaga) -->
 <!-- ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) -->
