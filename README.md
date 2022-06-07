@@ -28,7 +28,6 @@
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=Javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
 ![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)
