@@ -4,7 +4,7 @@
 [![](https://github.com/omarovfrontend/omarovfrontend/blob/main/profile.gif?raw=true)](http://omarovfrontend.ru/) 
 <!-- If you want the template for my gif, email me! -->
 
-<img align="right" width: "330px" display: "block"; opacity: "0.9"; margin-top: "50px" alt="GIF" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47guq07vqxyyeb82qdgqb7ekwpszlnqolhgpn0u8ni&rid=giphy.gif"/>
+<img align="right" width: "330" display: "block" opacity: "0.9" margin-top: "50px" alt="GIF" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47guq07vqxyyeb82qdgqb7ekwpszlnqolhgpn0u8ni&rid=giphy.gif"/>
 
 ### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="50"></p>
 
