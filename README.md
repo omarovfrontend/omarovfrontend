@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" width="350" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47guq07vqxyyeb82qdgqb7ekwpszlnqolhgpn0u8ni&rid=giphy.gif"/>
 
-### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="30"></p>
+### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="50"></p>
 
  - [ ] 👨🏻‍💻 `I'm currently studying: React.js, Redux;`
  - [ ] 🤝 `I’m looking to collaborate with other developers;`
@@ -46,7 +46,6 @@
 
 <!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue) -->
 <!-- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt) -->
-
 
 ### Contact me: ☟
 [![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
