@@ -14,7 +14,8 @@
  - [ ] 🤫 `Fun fact: I love coding and I have a karate KMS;`
 
 ### My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact&text_color=fff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact&langs_count=6&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact&text_color=fff&bg_color=000 -->
 
 ### Languages and Tools:
 
