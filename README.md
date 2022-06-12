@@ -9,7 +9,7 @@
 
 ### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="30"></p>
 
- - [ ] 👨🏻‍💻 `I'm currently studying: Express.js, Sequelize, Handlebars;`
+ - [ ] 👨🏻‍💻 `I'm currently studying: React.js, Redux;`
  - [ ] 🤝 `I’m looking to collaborate with other developers;`
  - [ ] 🎯 `Goals for 2022: Join a dynamic and ambitious development team;`
  - [ ] 🤫 `Fun fact: I love coding and I have a karate KMS;`
