@@ -8,7 +8,7 @@
 
 ### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="50"></p>
 
- - [ ] 👨🏻‍💻 `I'm currently studying: React.js, Redux;`
+ - [ ] 👨🏻‍💻 `I'm currently studying: TypeScript;`
  - [ ] 🤝 `I’m looking to collaborate with other developers;`
  - [ ] 🎯 `Goals for 2022: Join a dynamic and ambitious development team;`
  - [ ] 🤫 `Fun fact: I love coding and I have a karate KMS;`
@@ -39,7 +39,7 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
-<!-- ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux) -->
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 <!-- ![ReduxSaga](https://img.shields.io/badge/-ReduxSaga-000?&logo=ReduxSaga) -->
 <!-- ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) -->
 <!-- ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript) -->
