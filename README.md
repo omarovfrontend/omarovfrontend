@@ -7,11 +7,10 @@
 <img align="right" width="330" alt="GIF" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47guq07vqxyyeb82qdgqb7ekwpszlnqolhgpn0u8ni&rid=giphy.gif"/>
 
 ### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="50"></p>
-
  - 👨🏻‍💻 `I'm currently studying: TypeScript;`
- - [ ] 🤝 `I’m looking to collaborate with other developers;`
- - [ ] 🎯 `Goals for 2022: Join a dynamic and ambitious development team;`
- - [ ] 🤫 `Fun fact: I love coding and I have a karate KMS;`
+ - 🤝 `I’m looking to collaborate with other developers;`
+ - 🎯 `Goals for 2022: Join a dynamic and ambitious development team;`
+ - 🤫 `Fun fact: I love coding and I have a karate KMS;`
 
 ### My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact&langs_count=6&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,7 +19,6 @@
 ![Codewars](https://www.codewars.com/users/omarovfrontend/badges/large)
 
 ### Languages and Tools:
-
 ![VScode](https://img.shields.io/badge/-VScode-000?&logo=Visual-Studio-Code)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=WebStorm)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
