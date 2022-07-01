@@ -47,7 +47,7 @@
 <!-- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt) -->
 
 ### ***<p align="center">🥋 In my free time I like to practice on Codewars. 🥷</p>***
-![Codewars](https://www.codewars.com/users/omarovfrontend/badges/large)
+<p align="center">![Codewars](https://www.codewars.com/users/omarovfrontend/badges/large)</p>
 
 ### Contact me: ☟
 [![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
