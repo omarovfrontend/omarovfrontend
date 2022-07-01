@@ -4,13 +4,12 @@
 [![](https://github.com/omarovfrontend/omarovfrontend/blob/main/profile.gif?raw=true)](http://omarovfrontend.ru/) 
 <!-- If you want the template for my gif, email me! -->
 
-<img align="right" width="330" alt="GIF" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47guq07vqxyyeb82qdgqb7ekwpszlnqolhgpn0u8ni&rid=giphy.gif"/>
+<img align="right" width="320" alt="GIF" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47guq07vqxyyeb82qdgqb7ekwpszlnqolhgpn0u8ni&rid=giphy.gif"/>
 
-### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="50"></p>
- - 👨🏻‍💻 I'm currently studying: TypeScript;
- - 🤝 `I’m looking to collaborate with other developers;`
- - 🎯 `Goals for 2022: Join a dynamic and ambitious development team;`
- - 🤫 `Fun fact: I love coding and I have a karate KMS;`
+### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="60"></p>
+ - 👨🏻‍💻 `I'm currently studying: TypeScript,`
+ - 🤝 `I’m looking to collaborate with other developers,`
+ - 🤫 `Fun fact: I love coding and I have a karate KMS.`
 
 ### My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact&langs_count=6&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
