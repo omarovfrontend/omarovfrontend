@@ -8,7 +8,7 @@
 
 ### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="50"></p>
 
- - [ ] 👨🏻‍💻 `I'm currently studying: TypeScript;`
+ - ( ) 👨🏻‍💻 `I'm currently studying: TypeScript;`
  - [ ] 🤝 `I’m looking to collaborate with other developers;`
  - [ ] 🎯 `Goals for 2022: Join a dynamic and ambitious development team;`
  - [ ] 🤫 `Fun fact: I love coding and I have a karate KMS;`
@@ -46,8 +46,8 @@
 <!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue) -->
 <!-- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt) -->
 
-### ***<p align="center">🥋 In my free time I like to practice on Codewars. 🥷</p>***
-<p align="center">![Codewars](https://www.codewars.com/users/omarovfrontend/badges/large)</p>
+### 🥷 In my free time I like to practice on Codewars. 🥋
+![Codewars](https://www.codewars.com/users/omarovfrontend/badges/large)
 
 ### Contact me: ☟
 [![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
