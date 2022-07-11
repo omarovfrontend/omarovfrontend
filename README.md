@@ -40,6 +40,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+
 <!-- ![ReduxSaga](https://img.shields.io/badge/-ReduxSaga-000?&logo=ReduxSaga) -->
 <!-- ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) -->
 <!-- ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript) -->
