@@ -34,7 +34,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=Jest&logoColor=99424F)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Npm](https://img.shields.io/badge/-Npm-000?&logo=Npm)
-![Eslint](https://img.shields.io/badge/Eslint-20232A?style=flat&logo=Eslint&logoColor=7C7CEA)
+![Eslint](https://img.shields.io/badge/Eslint-000?style=flat&logo=Eslint&logoColor=7C7CEA)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
