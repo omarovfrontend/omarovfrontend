@@ -49,8 +49,10 @@
 <!-- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt) -->
 
 ### Contact me: ☟
+<p align='center'>
 [![Visits Badge](https://badges.pufler.dev/visits/omarovfrontend/omarovfrontend)](https://github.com/omarovfrontend/omarovfrontend)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=for-the-badge&logo=telegram&logoColor=fff&color=0966c2)](https://t.me/omarovfrontend)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=blue&color=0966c2)](https://www.linkedin.com/in/omarovfrontend/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=for-the-badge&logo=codepen&logoColor=fff&color=0966c2)](https://codepen.io/omarovfrontend)
 [![Codewars Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=for-the-badge&logo=codewars&logoColor=red&color=0966c2)](https://www.codewars.com/users/omarovfrontend)
+</p>
