@@ -7,8 +7,8 @@
 <img align="right" width="350" alt="GIF" src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47guq07vqxyyeb82qdgqb7ekwpszlnqolhgpn0u8ni&rid=giphy.gif"/>
 
 ### <p>A little more about me: <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.webp" width="60"></p>
- - `👨🏻‍💻 I'm currently studying: TypeScript,`
- - `🤝 I’m looking to collaborate with other developers,`
+ - `👨🏻‍💻 I'm currently studying: TypeScript.`
+ - `🤝 I’m looking to collaborate with other developers.`
  - `🤫 Fun fact: I love coding and I have a karate KMS.`
 
 ### My Stats:
