@@ -39,11 +39,12 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?style=flat&logo=Redux&logoColor=61DAFB)
+![ReduxSaga](https://img.shields.io/badge/-ReduxSaga-000?&logo=ReduxSaga&logoColor=61DAFB)
 
-<!-- ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React) -->
-<!-- ![Redux](https://img.shields.io/badge/-Redux-000?style=flat&logo=Redux&logoColor=61DAFB) -->
-<!-- ![ReduxSaga](https://img.shields.io/badge/-ReduxSaga-000?&logo=ReduxSaga&logoColor=61DAFB) -->
+
+<!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js) -->
 <!-- ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) -->
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) -->
 <!-- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js) -->
