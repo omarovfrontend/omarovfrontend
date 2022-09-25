@@ -30,7 +30,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=Javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-000?style=flat&logo=JQuery&logoColor=007ACC)
-![Codewars](https://img.shields.io/badge/-Codewars-000?style=flat&logo=Codewars&logoColor=red)
 ![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=Jest&logoColor=99424F)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Npm](https://img.shields.io/badge/-Npm-000?&logo=Npm)
