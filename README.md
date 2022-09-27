@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact&langs_count=6&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🥷 In my free time I like to practice on Codewars.
-![Codewars](https://www.codewars.com/users/omarovfrontend/badges/large)
+[![Codewars](https://www.codewars.com/users/omarovfrontend/badges/large)](https://www.codewars.com/users/omarovfrontend)
 
 ### Languages and Tools:
 ![VScode](https://img.shields.io/badge/-VScode-000?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
