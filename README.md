@@ -41,7 +41,6 @@
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?style=flat&logo=Redux&logoColor=61DAFB)
 
-
 <!-- ![ReduxSaga](https://img.shields.io/badge/-ReduxSaga-000?&logo=ReduxSaga&logoColor=61DAFB) -->
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) -->
 <!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js) -->
